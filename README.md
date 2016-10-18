@@ -43,12 +43,12 @@ Open a terminal and execute next commands:
   - Go to https://www.jetbrains.com/idea/download/#section=linux
   - Click on download button which is located below "Community" 
   - When download is finished open a terminal
-  - Execute next command: 
-          - mkdir ~/ide && tar -xvf ~/Downloads/ideaIC-2016.2.5.tar.gz -C ~/ide/
-          - cd  ~/ide/idea-IC-162.2228.15/bin
-		  - ./idea.sh
-		  - on the open window click in Configure -> Create Desktop Entry and Click Ok.
-		  - now you can close idea and you will be able to open it from OS start menu
+  - Execute next commands: 
+      - mkdir ~/ide && tar -xvf ~/Downloads/ideaIC-2016.2.5.tar.gz -C ~/ide/
+      - cd  ~/ide/idea-IC-162.2228.15/bin
+      - ./idea.sh
+      - on the open window click in Configure -> Create Desktop Entry and Click Ok.
+      - now you can close idea and you will be able to open it from OS start menu
 
 #### Install git
 

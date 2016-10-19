@@ -7,20 +7,20 @@
  - Go to http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
  - Select "Accept License Agreement" radio button below "Java SE Development Kit 8u102" text
  - Click on jdk-8u102-windows-x64.exe
- - When download is finished go to c:\Users\<your usename>\Downloads\ and double click on jdk-8u102-windows-x64.exe file
+ - When download is finished go to c:\Users\\[your usename]\Downloads\ and double click on jdk-8u102-windows-x64.exe file
  - Click Next -> Next until installation is finished
  
 #### Install idea
 
  - Go to https://www.jetbrains.com/idea/download/#section=windows
  - Click on download button which is located below "Community" 
- - When download is finished go to c:\Users\<your usename>\Downloads\ and double click on ideaIC-2016.2.5.exe file
+ - When download is finished go to c:\Users\\[your usename]\Downloads\ and double click on ideaIC-2016.2.5.exe file
  - Click Next -> Next until installation is finished
 
 #### Install git bash
  
  - Go to https://git-scm.com/download/win
- - When download is finished go to c:\Users\<your usename>\Downloads\ and double click on Git-2.10.1-64-bit.exe file 
+ - When download is finished go to c:\Users\\[your usename]\Downloads\ and double click on Git-2.10.1-64-bit.exe file 
  - Click Next -> Next until installation is finished 
  
 ### On ubuntu/debian

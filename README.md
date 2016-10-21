@@ -30,13 +30,11 @@
 Open a terminal and execute next commands:
 
  - sudo apt-get install -y software-properties-common 
- - sudo add-apt-repository -y ppa:webupd8team/java && \
-  sudo apt-get update && \
-  sudo apt-get install -y oracle-java8-installer && \
-  sudo apt-get install -y oracle-java8-unlimited-jce-policy
+ - sudo add-apt-repository -y ppa:webupd8team/java
+ - sudo apt-get update
+ - sudo apt-get install -y oracle-java8-installer
  - sudo update-alternatives --display java
- - sudo echo "JAVA_HOME=/usr/lib/jvm/java-8-oracle" >> /etc/environment
-
+ 
 #### Install idea
   - Go to https://www.jetbrains.com/idea/download/#section=linux
   - Click on download button which is located below "Community" 

@@ -51,3 +51,11 @@ Open a terminal and execute next commands:
 Open a terminal and execute next command:
 
 sudo apt-get install git
+# Resources
+## For beginners course
+
+http://www.tutorialspoint.com/java/java_tutorial.pdf
+
+## For advance course
+
+https://www.tutorialspoint.com/design_pattern/design_pattern_tutorial.pdf

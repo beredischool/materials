@@ -56,6 +56,8 @@ sudo apt-get install git
 
 http://www.tutorialspoint.com/java/java_tutorial.pdf
 
+https://www.tutorialspoint.com/java8/java8_tutorial.pdf
+
 ## For advance course
 
 https://www.tutorialspoint.com/design_pattern/design_pattern_tutorial.pdf
